@@ -34,7 +34,7 @@ DevOps Daily is maintained by a team of experienced DevOps practitioners passion
 
 - **Website**: [devops-daily.com](https://devops-daily.com)
 - **Email**: info@devops-daily.com
-- **Twitter**: [@devopsdaily_](https://twitter.com/devopsdaily_)
+- **Twitter**: [@thedevopsdaily](https://twitter.com/thedevopsdaily)
 
 ---
 
